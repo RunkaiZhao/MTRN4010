@@ -1,0 +1,7 @@
+Specification:
+The code files named "Part1" and "Part2" are doing the main function for the part1 and part2 in project2,
+and other files are separated files for part2.
+
+In part2:
+1. If you wanna zoom on the figure while running part2 code, you have to slow down the running speed through change the pause time longer in the end of loop.
+2. Changing the loop condition could get more numbers of observation for getting a better result.
