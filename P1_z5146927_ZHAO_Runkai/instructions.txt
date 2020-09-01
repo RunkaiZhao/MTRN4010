@@ -1,0 +1,3 @@
+The "PartCDforTestingFunction" matlab file was aimed to verify performance of the functions related to Part C and D.
+This function draws graphs to show the measurements that are same to the solution provided by the lecturer,
+but those graphs will not display while execute main function.
